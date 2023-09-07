@@ -1,0 +1,30 @@
+src/main/resources/a.txt
+
+Dijkstra:
+time 8423
+Act 5
+
+123
+045
+876
+
+123
+845
+076
+
+123
+845
+706
+
+123
+845
+760
+
+123
+840
+765
+
+Bidirectional:
+time 0
+Act -2
+
